@@ -42,3 +42,31 @@ It includes:
 ---
 
 ## 🖥️ Sample Output
+Student Name: Arun
+Roll No: 101
+Marks: 85
+Attendance: 90%
+Grade: A
+Grade (with attendance): A+
+
+---
+
+## 📊 Concepts Demonstrated
+- Encapsulation  
+- Function Overloading  
+- Function Overriding  
+- Inheritance  
+- Modular program design  
+
+---
+
+## 📚 References
+- Balagurusamy, E. *Object-Oriented Programming with C++*. McGraw Hill Education.  
+- Stroustrup, Bjarne. *The C++ Programming Language*. Addison-Wesley.  
+- GeeksforGeeks – Encapsulation and Polymorphism in C++.  
+- TutorialsPoint – C++ Object Oriented Programming.  
+- Dev-C++ IDE Documentation (SourceForge).  
+- GitHub Docs – Getting Started with GitHub.  
+
+---
+
